@@ -15,4 +15,4 @@ After Implementation, you will see output like
 
 ![jquery ajax autocomplete aspnet mvc core](https://geeksarray.com/images/blog/jquery-ajax-autocomplete-aspnet-mvc-core.png)
 
-For more information see - http://geeksarray.com/blog/jquery-ajax-autocomplete-in-asp-net-mvc-core
+For more information see - https://geeksarray.com/blog/jquery-ajax-autocomplete-in-asp-net-mvc-core
